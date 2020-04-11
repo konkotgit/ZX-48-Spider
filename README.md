@@ -3,7 +3,7 @@
 
 The board is designed to fit into the standard ZX Spectrum 48k or ZX Spectrum + housing.
 
-Characteristic:
+## Characteristic:
 
 * ULA based on the CPLD system from the Altera Max7000 family (EPM7128SLC84),
 * 48KB RAM,
