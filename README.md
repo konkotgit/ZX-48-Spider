@@ -32,5 +32,7 @@ Thanks to Maryjan from speccy.pl forum for testing.
 
 The software for the CPLD EPM7128 system was developed based on an implementation of OpenCores by Miguel Jodar. Don "Superfo" used this implementation to create the ZX Max family, on the basis of which the ZX 48 Spider was designed. Firmware in its current form was created with the active participation and help of speccy.pl forum members. This project uses CPLD from ZX Max 48 Issue 2
 
+### Look at YouTube:
+[![YouTube link](https://img.youtube.com/vi/qaBD1FU5c1k/0.jpg)](https://www.youtube.com/watch?v=qaBD1FU5c1k)
 
 ![ZX 48 Spider](/photos/zx48spider_rev1_1_small.jpg)
