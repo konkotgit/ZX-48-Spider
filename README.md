@@ -30,6 +30,27 @@ Tested interfaces:
 
 Thanks to Maryjan from speccy.pl forum for testing.
 
+## Fixes
+### Bright
+
+If BRIGHT is low or not visible make this modification.
+
+1. Remove resistors R1, R2, R3
+2. Replace R15, R16, R17 with 220R
+3. Solder bridges as shown on picture.
+
+![ZX 48 Spider bright fix](/photos/zx_48_spider_bright_fix_s.jpg)
+
+### Tape Loading
+
+If tape loading is not working make sure that Q1 BC517 is properly soldered.
+There are BC517 transistors on the market with different pinout.
+
+Counting from the left side:
+1. Collector 2. Base 3. Emitter -> Solder it as shown on silkscreen on PCB.
+1. Emitter 2. Base 3. Collector -> Solder it rotated 180 degree.
+
+
 The software for the CPLD EPM7128 system was developed based on an implementation of OpenCores by Miguel Jodar. Don "Superfo" used this implementation to create the ZX Max family, on the basis of which the ZX 48 Spider was designed. Firmware in its current form was created with the active participation and help of speccy.pl forum members. This project uses CPLD from ZX Max 48 Issue 2
 
 ### Look at YouTube:
