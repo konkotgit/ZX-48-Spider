@@ -37,7 +37,7 @@ If BRIGHT is low or not visible make this modification.
 
 1. Remove resistors R1, R2, R3
 2. Replace R15, R16, R17 with 220R
-3. Solder bridges as shown on picture.
+3. Solder the wires as shown in the picture.
 
 ![ZX 48 Spider bright fix](/photos/zx_48_spider_bright_fix_s.jpg)
 
